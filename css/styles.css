@@ -81,26 +81,27 @@ a {
 .button {
   font-family: inherit;
   color: currentColor;
-  cursor: pointer;
-  
-}
-.hero-btm {
+ }
+.hero-btm 
+{
   background-color: #4d5ae5;
   color: #ffffff;
-  font-family: Roboto;
+  font-family: Roboto,sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 
-.hero-btm:hover {
-  background-color: #404bbf;
+.hero-btm:hover 
+{
+  background-color: #404BBF;
 }
-.hero-btm:focus {
-  background-color: #404bbf;
+.hero-btm:focus 
+{
+  background-color: #404BBF;
 }
 /*section 1*/
 
@@ -134,10 +135,12 @@ a {
 
 /*sectio 2*/
 
-.team {
+.team 
+{
   background-color: #ffffff;
 }
-.team-title {
+.title 
+{
   color: #2e2f42;
   text-align: center;
   font-family: Roboto;
@@ -148,7 +151,8 @@ a {
   text-transform: capitalize;
 }
 
-.team-item-name {
+.team-item-name 
+{
   font-family: Roboto;
   font-size: 20px;
   font-style: normal;
@@ -157,7 +161,8 @@ a {
   letter-spacing: 0.02em;
 }
 
-.team-item-profession {
+.team-item-profession 
+{
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -169,10 +174,11 @@ a {
 
 /* section3*/
 
-.portfolio {
-  background-color: #f4f4fd;
+.portfolio
+ {
+  background-color: #F4F4FD;
 }
-.poprtfolio-title {
+  .poprtfolio-title {
   font-size: 36px;
   line-height: 1.11;
   font-family: Roboto;
@@ -180,16 +186,9 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-item {
-  font-family: Roboto;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2em;
-  font-family: Roboto;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.poprtfolio-descr {
+
+.poprtfolio-descr 
+{
   color: #434455;
   font-family: Roboto;
   line-height: 1.5;
