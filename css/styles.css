@@ -218,6 +218,6 @@ a {
 .footer-descr {
   color: #f4f4fd;
   line-height: 1.5;
-  line-height: 1.2em;
+  letter-spacing: 0.02em;
   font-family: Roboto;
 }
