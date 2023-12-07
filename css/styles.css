@@ -135,7 +135,6 @@ a {
 .title 
 {
   background-color: #FFFFFF;
-  color:#2e2f42;
   text-align: center;
   font-family: Roboto;
   font-size: 36px;
@@ -179,13 +178,14 @@ a {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 
 .portfolio-item-card
 {
     font-size: 36px;
     line-height: 1.11;
-    background-color: #FFFFFF;
+    color:#2e2f42;
 }
 
 .portfolio-descr 
@@ -195,7 +195,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #FFFFFF;
+  
   
 }
 
